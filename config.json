@@ -1,0 +1,23 @@
+{
+    "webhook": "https://discord.com/api/webhooks/1169809724515029112/1pSCWqqrH8EXe8xke7NfygURSaBkgNnv9JK0ufEsTIQ8aT1TphVZjezj7_BDHjNY37w8",
+    "username": "username",
+    "avatar_url": "https://us.rule34.xxx//samples/7092/sample_193cc33b2f7859eb8c75564adc7f7516.jpg?8089615",
+    "attachments": [],
+    "color": 1000000,
+    "content": "",
+    "author": "",
+    "fields": [
+        {
+            "name": "name",
+            "value": "value"
+        },
+        {
+            "name": "name",
+            "value": "value"
+        }
+    ],
+    "footer": {
+        "text": "text",
+        "icon_url": "https://us.rule34.xxx//samples/7092/sample_193cc33b2f7859eb8c75564adc7f7516.jpg?8089615"
+    }
+}
